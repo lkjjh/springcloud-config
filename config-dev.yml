@@ -3,3 +3,5 @@ config:
 eureka:
   eureka7001: "eureka:7001.com:7001"
   eureka7002: "eureka:7002.com:7001"
+  default:
+    suffix: "eureka"
