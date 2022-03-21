@@ -2,6 +2,6 @@ config:
   info: "master branch,springcloud-config/config-dev.yml version=10"
 eureka:
   eureka7001: "eureka7001.com:7001"
-  eureka7002: "eureka7001.com:7001"
+  eureka7002: "eureka7002.com:7002"
   default:
     suffix: "eureka"
